@@ -1,0 +1,21 @@
+{
+    "my-comate-plugin": {
+        "enabled": true
+    },
+    "demo-feature": {
+        "enabled": true
+    },
+    "icafe": {
+        "enabled": true,
+        "debug": {
+            "inspectPort": 9230
+        }
+
+    },
+    "jarvis": {
+        "enabled": true,
+        "debug": {
+            "inspectPort": 9231
+        }
+    }
+}
